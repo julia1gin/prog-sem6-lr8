@@ -10,7 +10,8 @@
 * лица в наушниках или очках.
 
 Ниже представлены результаты использования.
-![Пример 1](/for_readme/example1.jpg)
-![Пример 2](/for_readme/example2.jpg)
-![Пример 3](/for_readme/example3.jpg)
-![Пример 4](/for_readme/example4.jpg)
+![Пример 1](/for_readme/1.jpg)
+
+![Пример 2](/for_readme/2.jpg)
+
+![Пример 3](/for_readme/3.jpg)
