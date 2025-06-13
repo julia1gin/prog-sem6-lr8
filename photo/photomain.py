@@ -71,7 +71,7 @@ video=cv2.VideoCapture(args.image if args.image else 0)
 # пока не нажата любая клавиша — выполняем цикл
 
 while cv2.waitKey(1)<0:
-    frame = cv2.imread("example2.jpg")
+    frame = cv2.imread("example4.jpg")
     # определяем лица в кадре
     resultImg,faceBoxes=highlightFace(faceNet,frame)
     # перебираем все найденные лица в кадре
